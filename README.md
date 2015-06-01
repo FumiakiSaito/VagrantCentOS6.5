@@ -29,3 +29,8 @@ vagrant ssh
 ```
 vagrant ssh-config --host [ホスト名] >> ~/.ssh/config
 ```
+
+rootにスイッチ  
+```
+$ sudo su -
+```
