@@ -5,6 +5,8 @@ vagrant初期化(Vagrantfileの作成)
 vagrant init
 ```
 
+ここでvagrantfileの更新を行う  
+
 仮想サーバ起動
 ```
 vagrant up

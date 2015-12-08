@@ -1,1 +1,1 @@
-{"virtualbox":{"/guest_data":{"guestpath":"/guest_data","hostpath":"/Users/fumiaki/Google ドライブ/Develop/Vagrant/CentOS6.5/host_data","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/fumiaki/Google ドライブ/Develop/Vagrant/CentOS6.5","disabled":false}}}
+{"virtualbox":{"/guest_data":{"guestpath":"/guest_data","hostpath":"C:/Users/史明/Google ドライブ/Develop/Vagrant/CentOS6.5/host_data","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/史明/Google ドライブ/Develop/Vagrant/CentOS6.5","disabled":false}}}
