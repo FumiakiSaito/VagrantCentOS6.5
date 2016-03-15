@@ -36,3 +36,11 @@ rootにスイッチ
 ```
 $ sudo su -
 ```
+
+##vagrantプラグインに関するコマンド
+```
+vagrant plugin install <name>
+vagrant plugin uninstall <name>
+vagrant plugin update [names...]
+vagrant plugin list
+```
